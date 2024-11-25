@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: config.ini
+  checksum: c698f6386d8b42e3cc0c2dd5e6854d47863778cd0669806830d458505cc0a2ba
+version: ""
